@@ -1,8 +1,8 @@
-# My Arduino Projects 001
+# Arduino Rotary Clock
+
+https://youtu.be/HsTXarwsVWQ<br>
 
 <b>Arduino Nano + DS3231 + 1602 LCD + piezoelectric buzzer + rotary encoder.</b>
-
-<b>arduino_rotary_clock</b> https://youtu.be/HsTXarwsVWQ<br>
 
 Overall view
 <img src="https://github.com/faowff034faerf3490ur/arduino_rotary_clock/blob/master/IMG/DSC_0002_copy.jpg" title="photo 1"><br>Wiring<br>
